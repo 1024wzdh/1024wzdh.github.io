@@ -1,0 +1,47 @@
+﻿.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-content {
+    cursor: pointer;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.text-justify:after {
+    content: '';
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    height: 0;
+}
+
+.c_orange {
+    color: #f2ae35;
+}
+
+.c_ddd {
+    color: #ddd;
+}
+
+.c_blue {
+    color: #2382c5;
+}
+
+.c_yellow {
+    color: #d99e54;
+}
+
+.c_red {
+    color: #e0615b;
+}
